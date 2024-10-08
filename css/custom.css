@@ -4,9 +4,10 @@
 -------------------Author: OnushorIT------------
 ----------------------------------------------*/
 
-WILMAURI PULL REQUEST!!!
-
-
+html,
+body {
+  height: 99%;
+  width: 100%;
 }
 
 body {
