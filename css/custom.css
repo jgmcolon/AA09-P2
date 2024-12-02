@@ -357,7 +357,7 @@ header.single-page-header .breadcrumb li.active{
   display:inline-block;
   vertical-align:middle;
   position:relative;
-  float: left;
+  float: none;
   margin-left: 5px;
 }
 
@@ -1520,7 +1520,6 @@ section.social_contact ul.list-social li.social-google-plus a:hover {
 }
 
 #testimonials .testimonials-list .single-testimonial {
-  -webkit-transition: all 0.25s;
   border: 1px solid #E0E0E0;
   border-radius: 10px;
   background-color: white;
@@ -2299,8 +2298,8 @@ img::-moz-selection {
   background: transparent;
 }
 
-body {
-  webkit-tap-highlight-color: #222222;
+#webkit-tap-highlight-color {
+  color: #222222;
 }
 
 /* End of Custom CSS */
