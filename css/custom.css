@@ -67,7 +67,7 @@ p {
 }
 
 .navbar-default {
-  background-color: #15549a;
+  background-color: #6f2020;
   border-color: rgba(21, 84, 154, 0.1);
   opacity: 1;
   -webkit-transition: all 0.35s;
@@ -111,7 +111,7 @@ p {
   border:1px solid #fff;
   margin-right: 5px;
   border-radius: 4px;
-  background: #15549a;
+  background: #6f2020;
   font-weight: 500;
 }
 
