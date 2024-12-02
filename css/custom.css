@@ -187,43 +187,43 @@ header {
 }
 
 header.car_loan{
-  background-image: linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg");
-  background-image: -webkit-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg"); 
-  background-image:    -moz-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg"); 
-  background-image:     -ms-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg"); 
-  background-image:      -o-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg"); 
+  background-image: linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header.jpg");
+  background-image: -webkit-linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header.jpg"); 
+  background-image:    -moz-linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header.jpg"); 
+  background-image:     -ms-linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header.jpg"); 
+  background-image:      -o-linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header.jpg"); 
 }
 
 header.home_loan{
-  background-image: linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg");
-  background-image: -webkit-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg"); 
-  background-image:    -moz-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg"); 
-  background-image:     -ms-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg"); 
-  background-image:      -o-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg");
+  background-image: linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header.jpg");
+  background-image: -webkit-linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header.jpg"); 
+  background-image:    -moz-linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header.jpg"); 
+  background-image:     -ms-linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header.jpg"); 
+  background-image:      -o-linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header.jpg");
 }
 
 header.education_loan{
-  background-image: linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg");
-  background-image: -webkit-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg"); 
-  background-image:    -moz-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg"); 
-  background-image:     -ms-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg"); 
-  background-image:      -o-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header.jpg");
+  background-image: linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header.jpg");
+  background-image: -webkit-linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header.jpg"); 
+  background-image:    -moz-linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header.jpg"); 
+  background-image:     -ms-linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header.jpg"); 
+  background-image:      -o-linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header.jpg");
 }
 
 header.blog-header{
-  background-image: linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header_blog.jpg");
-  background-image: -webkit-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header_blog.jpg"); 
-  background-image:    -moz-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header_blog.jpg"); 
-  background-image:     -ms-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header_blog.jpg"); 
-  background-image:      -o-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header_blog.jpg"); 
+  background-image: linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header_blog.jpg");
+  background-image: -webkit-linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header_blog.jpg"); 
+  background-image:    -moz-linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header_blog.jpg"); 
+  background-image:     -ms-linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header_blog.jpg"); 
+  background-image:      -o-linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header_blog.jpg"); 
 }
 
 header.agent-header{
-  background-image: linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header_agent.jpg");
-  background-image: -webkit-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header_agent.jpg"); 
-  background-image:    -moz-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header_agent.jpg"); 
-  background-image:     -ms-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header_agent.jpg"); 
-  background-image:      -o-linear-gradient(rgba(21, 84, 154, 0.85), rgba(21, 84, 154, 0.85)), url("../img/header_agent.jpg"); 
+  background-image: linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header_agent.jpg");
+  background-image: -webkit-linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header_agent.jpg"); 
+  background-image:    -moz-linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header_agent.jpg"); 
+  background-image:     -ms-linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header_agent.jpg"); 
+  background-image:      -o-linear-gradient(rgba(199, 50, 40, 0.851), rgba(199, 50, 40, 0.851)), url("../img/header_agent.jpg"); 
 }
 
 .single-page-header{
@@ -550,7 +550,7 @@ header.single-page-header .breadcrumb li.active{
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(21, 84, 154, 0.85);
+  background-color: rgba(199, 50, 40, 0.851);
 }
 
 .bs-slider > .carousel-inner > .item > img,
